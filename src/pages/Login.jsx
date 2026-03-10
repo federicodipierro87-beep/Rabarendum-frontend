@@ -69,7 +69,7 @@ function Login() {
         <div className="text-center mb-8">
           <div className="text-6xl mb-4 animate-float">🎭</div>
           <h1 className="font-display text-5xl text-carnival-yellow glow mb-2">
-            Carnival Voting
+            Rabadan
           </h1>
           <p className="text-carnival-yellow/60">
             Sistema di votazione giuria

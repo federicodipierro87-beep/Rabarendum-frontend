@@ -15,7 +15,7 @@ function Navbar() {
             <Link to="/" className="flex items-center gap-2">
               <span className="text-3xl">🎭</span>
               <span className="font-display text-2xl text-carnival-yellow glow hidden sm:block">
-                Carnival Voting
+                Rabadan
               </span>
             </Link>
 
